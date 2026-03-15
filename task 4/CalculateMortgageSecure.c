@@ -1,7 +1,3 @@
-/* CalculateMortgageSecure.c
-Secure mortgage calculation
-*/
-
 #include <stdio.h>
 #include <limits.h>
 #include <stdbool.h>
